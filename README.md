@@ -5,8 +5,8 @@
 <h3 align="center">🚀 Crafting intelligent solutions with code and AI</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alomgir27&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/alomgir27?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Alomgir27&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Alomgir27?label=Followers&style=social" alt="followers" />
 </p>
 
 ---
@@ -118,19 +118,10 @@ const alomgir = {
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alomgir27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=alomgir27&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alomgir27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alomgir27&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Alomgir27&theme=tokyonight&no-frame=true&row=1&column=7" width="900"/>
 </p>
 
 ---
