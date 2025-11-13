@@ -1,5 +1,7 @@
 <div align="center">
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E7EF7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Alomgir+Hossain;Software+Engineer;Full+Stack+%2B+AI+%2B+Voice+Tech" alt="Typing SVG" />
+
 </div>
 
 <h3 align="center">🚀 Crafting intelligent solutions with code and AI</h3>
@@ -16,16 +18,14 @@
 ```javascript
 const alomgir = {
     role: "Software Engineer",
-    company: "Co-founder @ recurse.ai",
-    focus: ["AI-Powered Voice Solutions", "Real-time Audio Pipelines", "Microservices Architecture"],
-    building: "ClearVocals.ai - Advanced voice cloning & AI dubbing platform",
-    expertise: ["LLMs & RAG", "Backend Systems", "Voice AI", "System Design"],
+    focus: ["Backend Development", "System Architecture", "AI Solutions"],
+    expertise: ["Backend Systems", "Microservices", "AI/ML", "System Design"],
     competitive: {
         codeforces: "Expert (max 1657)",
         codechef: "5-Star",
         solved: "3,500+ problems"
     },
-    learning: "Building production-ready AI systems that scale",
+    learning: "Building scalable and intelligent software solutions",
     contact: "alomgir27@student.sust.edu"
 };
 ```
@@ -129,4 +129,3 @@ const alomgir = {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
- 
