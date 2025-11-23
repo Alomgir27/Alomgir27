@@ -17,22 +17,17 @@
 
 ```javascript
 const alomgir = {
+    name: "Alomgir Hossain",
     role: "Software Engineer",
-    focus: ["Backend Development", "System Architecture", "AI Solutions"],
-    expertise: ["Backend Systems", "Microservices", "AI/ML", "System Design"],
-    competitive: {
-        codeforces: "Expert (max 1657)",
-        codechef: "5-Star",
-        solved: "3,500+ problems"
+    specialization: ["Backend Systems", "AI/ML Integration", "Distributed Architectures"],
+    strengths: ["System Design", "Algorithmic Problem Solving", "Scalability"],
+    milestones: {
+        competitive: ["Codeforces Expert", "CodeChef 5-Star", "3,500+ Problems Solved"],
+        impact: ["Served 100K+ Users", "70+ Projects Delivered"]
     },
-    learning: "Building scalable and intelligent software solutions",
-    contact: "alomgir27@student.sust.edu"
+    message: "Let's build something amazing together!"
 };
 ```
-
-🚀 **2+ years** shipping enterprise solutions serving **100K+ users**  
-💡 Built **70+ client projects** across web, APIs, and automation  
-🎯 Led teams, architected AI platforms, and optimized systems for real-world impact
 
 ---
 
