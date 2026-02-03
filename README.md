@@ -13,24 +13,6 @@
 
 ---
 
-### 💫 About Me
-
-```javascript
-const alomgir = {
-    name: "Alomgir Hossain",
-    role: "Software Engineer",
-    specialization: ["Backend Systems", "AI/ML Integration", "Distributed Architectures"],
-    strengths: ["System Design", "Algorithmic Problem Solving", "Scalability"],
-    milestones: {
-        competitive: ["Codeforces Expert", "CodeChef 5-Star", "3,500+ Problems Solved"],
-        impact: ["Served 100K+ Users", "70+ Projects Delivered"]
-    },
-    message: "Let's build something amazing together!"
-};
-```
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
